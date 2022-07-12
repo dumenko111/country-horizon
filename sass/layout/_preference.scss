@@ -1,4 +1,9 @@
 /*------PREFERENCE-ПЕРЕВАГИ--------*/
+.values {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
 
 .preference {
     @media screen and (max-width:1199px) {
@@ -47,15 +52,15 @@
     margin-right: 30px;}
 }
 
-.preference-list-icon {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 120px;
-    margin-bottom: 30px;
-    background-color: #F5F4FA;
-    border-radius: 4px;
-}
+// .preference-list-icon {
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     height: 120px;
+//     margin-bottom: 30px;
+//     background-color: #F5F4FA;
+//     border-radius: 4px;
+// }
 
 
 .preference-title {

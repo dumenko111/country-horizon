@@ -10,13 +10,15 @@
     background-image: linear-gradient(
         rgba(47, 48, 58, 0.6), 
         rgba(47, 48, 58, 0.6)),
-    url(../images/bus_page-mobile.jpg);
+    url(../images/desc496574-1.jpg);
+    background-position: center;
     
     @media screen and (min-width: 768px) {
         background-image:  linear-gradient(
             rgba(47, 48, 58, 0.6), 
             rgba(47, 48, 58, 0.6)),
-        url(../images/bus_page.jpg);
+        url(../images/desc496574-1.jpg);
+        background-position: center;
     }
    
     @media screen and (min-width: 1200px) {
@@ -25,7 +27,8 @@
         background-image:  linear-gradient(
             rgba(47, 48, 58, 0.6), 
             rgba(47, 48, 58, 0.6)),
-        url(../images/bus_page.jpg);
+        url(../images/desc496574-1.jpg);
+        background-position: center;
     }
 }
  
